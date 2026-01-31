@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 1. Source the ROS 2 environment
-source /opt/ros/humble/setup.bash
+source /opt/ros/jazzy/setup.bash
 
 # 2. Source the local workspace (if it was built)
 if [ -f install/setup.bash ]; then
